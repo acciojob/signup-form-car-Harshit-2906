@@ -1,2 +1,12 @@
 
-/* Your CSS Code here. */
+/* Your CSS Code here. 
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+label, input, select, button {
+    margin: 10px 0;
+} */
